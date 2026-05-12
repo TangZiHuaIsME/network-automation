@@ -1,0 +1,20 @@
+[
+  {
+    "device": "CORE-ROUTER-01",
+    "device_ip": "192.168.1.1",
+    "checkat": "2026-05-12 18:19:57.284400",
+    "error": "TCP connection to device failed.\n\nCommon causes of this problem are:\n1. Incorrect hostname or IP address.\n2. Wrong TCP port.\n3. Intermediate firewall blocking access.\n\nDevice settings: huawei 192.168.1.1:22\n\n"
+  },
+  {
+    "device": "Core-Switch-01",
+    "device_ip": "192.168.1.8",
+    "checkat": "2026-05-12 18:20:07.286057",
+    "error": "TCP connection to device failed.\n\nCommon causes of this problem are:\n1. Incorrect hostname or IP address.\n2. Wrong TCP port.\n3. Intermediate firewall blocking access.\n\nDevice settings: huawei 192.168.1.8:22\n\n"
+  },
+  {
+    "device": "Core-Switch-01",
+    "device_ip": "192.168.1.2",
+    "checkat": "2026-05-12 18:20:17.287675",
+    "error": "TCP connection to device failed.\n\nCommon causes of this problem are:\n1. Incorrect hostname or IP address.\n2. Wrong TCP port.\n3. Intermediate firewall blocking access.\n\nDevice settings: huawei 192.168.1.2:22\n\n"
+  }
+]

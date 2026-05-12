@@ -1,0 +1,45 @@
+queryText,queryFromLanguage,queryToLanguage,timestamp
+encountered,English,Simplified-Chinese,2026-05-07T14:10:55Z
+setup,English,Simplified-Chinese,2026-05-07T13:49:03Z
+analogy,English,Simplified-Chinese,2026-05-07T13:44:31Z
+singleton pattern,English,Simplified-Chinese,2026-05-07T13:43:45Z
+implementation,English,Simplified-Chinese,2026-05-07T13:39:18Z
+abstraction,English,Simplified-Chinese,2026-05-07T13:38:42Z
+concise,English,Simplified-Chinese,2026-05-07T13:29:19Z
+Cascade,English,Simplified-Chinese,2026-05-07T13:27:15Z
+orphan,English,Simplified-Chinese,2026-05-07T13:26:58Z
+better for distributed systems and security,English,Simplified-Chinese,2026-05-07T12:57:12Z
+This uniquely identifies each row.,English,Simplified-Chinese,2026-05-07T12:56:29Z
+id field,English,Simplified-Chinese,2026-05-07T12:55:56Z
+blueprint of a database table,English,Simplified-Chinese,2026-05-07T12:54:44Z
+read database connection string from environment variables,English,Simplified-Chinese,2026-05-07T12:50:47Z
+decode,English,Simplified-Chinese,2026-05-07T12:49:59Z
+Postgre SQL,English,Simplified-Chinese,2026-05-07T12:48:41Z
+This becomes:• repetitive• error-prone• hard to maintain• no type safety,English,Simplified-Chinese,2026-05-07T12:48:05Z
+Object Relational Mapping,English,Simplified-Chinese,2026-05-07T12:46:28Z
+an ORM,English,Simplified-Chinese,2026-05-07T12:46:09Z
+Unique constraint for authentication,English,Simplified-Chinese,2026-05-07T12:38:05Z
+"id: Uses cuid() for unique, non-sequential identifiers",English,Simplified-Chinese,2026-05-07T12:37:32Z
+Use production-style Prisma conventions.,English,Simplified-Chinese,2026-05-07T12:21:11Z
+database schema,English,Simplified-Chinese,2026-05-07T12:20:37Z
+Prisma,Italian,Simplified-Chinese,2026-05-07T12:20:19Z
+delegate to Cursor,English,Simplified-Chinese,2026-05-07T12:18:55Z
+Generate REST API architecture,English,Simplified-Chinese,2026-05-07T12:16:52Z
+Define fields,English,Simplified-Chinese,2026-05-07T12:14:00Z
+What entities exist in my SaaS?,English,Simplified-Chinese,2026-05-07T12:13:01Z
+system intuition,English,Simplified-Chinese,2026-05-07T11:56:10Z
+scalability,English,Simplified-Chinese,2026-05-07T11:55:04Z
+Optimistic updates,English,Simplified-Chinese,2026-05-07T11:53:21Z
+strong portfolio,English,Simplified-Chinese,2026-05-07T11:53:06Z
+INTERMEDIATE,English,Simplified-Chinese,2026-05-07T11:52:52Z
+Full Request Flow (VERY important),English,Simplified-Chinese,2026-05-07T11:44:39Z
+ontroller,Dutch,Simplified-Chinese,2026-05-07T11:41:29Z
+turning point,English,Simplified-Chinese,2026-05-07T11:38:55Z
+implement,English,Simplified-Chinese,2026-05-07T11:38:28Z
+API routes,English,Simplified-Chinese,2026-05-07T11:20:32Z
+Prisma schema,English,Simplified-Chinese,2026-05-07T11:20:23Z
+add Prisma,English,Simplified-Chinese,2026-05-07T04:38:02Z
+Database schema (Prisma example),English,Simplified-Chinese,2026-05-07T04:36:54Z
+overengineering),Dutch,Simplified-Chinese,2026-05-07T04:36:07Z
+"Easydict“ wants access to control “System Events“. Allowing control will provide access to documents and data in “System Events“, and to perform actions within that app.",English,Simplified-Chinese,2026-05-07T04:32:17Z
+tooling rabbit hole.,English,Simplified-Chinese,2026-05-07T04:31:15Z
