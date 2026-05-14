@@ -4,46 +4,37 @@ from netmiko import ConnectHandler
 
 DEVICES=[
     {
-        "name":"CORE-ROUTER-01",
-        "device_type":"huawei",
-        "host":"192.168.1.1",
-        "username":"admin",
+        "name":"CORE",
+        "device_type":"cisco_ios",
+        "host":"ip",
+        "username":"developer",
         "password":"password",
     },
-    {
-        "name":"Core-Switch-01",
-        "device_type":"huawei",
-        "host":"192.168.1.8",
-        "username":"admin",
-        "password":"password",
-    },
-    {
-        "name":"Core-Switch-01",
-        "device_type":"huawei",
-        "host":"192.168.1.2",
-        "username":"admin",
-        "password":"password",
-    },
+
 ]
 
 COMMANDS=[
-    "display cpu-usage",
-    "display version",
-    "display interface brief",
+    "show ip interface brief | include 2",
+    "show version | include virtual",
+    "show platform",
+    "show processes cpu sorted",
+    "show memory statistics",
 ]
+
+
 
 def check_device(device:dict) -> dict:
     print(f"connecting to {device['name']}({device['host']})......")
 
     try:
         connection_args={k:v for k,v in device.items() if k != "name"}
-        connection = ConnectHandler(**connection_arg)
+        connection = ConnectHandler(**connection_args)
 
         result={}
 
         for commend in COMMANDS:
             output = connection.send_command(commend)
-            result[commend] = input
+            result[commend] = output
         
         connection.disconnect()
 
