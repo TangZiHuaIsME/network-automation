@@ -1,0 +1,16 @@
+---
+- name: show cdp-neighbor
+  hosts: router_port22
+  gather_facts: no
+  connection: network_cli
+  become: true
+
+  tasks:
+    - name: run commands to show cdp-neighbor
+      cisco.ios.ios_command:
+        commands:
+         - show cdp neighbors
+      register: cdp_output
+    - name: display this result
+      debug:
+        var: cdp_output.stdout_lines
