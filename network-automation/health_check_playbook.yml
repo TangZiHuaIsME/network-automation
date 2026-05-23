@@ -1,0 +1,17 @@
+---
+- name: health_check
+  hosts: router_port22
+  gather_facts: no
+  connection: network_cli
+
+  tasks:
+    - name: send commands
+      cisco.ios.ios_command:
+        commands:
+          - show version
+          - show inventory
+          - show ip interface brief
+      register: output
+    - name: print the result
+      debug:
+        var: output.stdout_lines

@@ -1,0 +1,15 @@
+---
+- name: Playbook 1 - Network Configuration Backup
+  hosts: router_port22
+  gather_facts: no
+
+  tasks:
+    - name: Fetch running configuration
+      cisco.ios.ios_facts:
+        gather_subset:
+          - config
+
+    - name: Save configuration file to backup folder
+      ansible.builtin.copy:
+        content: "{{ ansible_facts.net_config }}"
+        dest: "./backup/{{ inventory_hostname }}_{{ lookup('pipe', 'date +%Y-%m-%d') }}.cfg"
