@@ -1,0 +1,491 @@
+queryText,queryFromLanguage,queryToLanguage,timestamp
+Typo,English,Simplified-Chinese,2026-05-14T06:13:11Z
+externally-managed-environment,English,Simplified-Chinese,2026-05-14T06:12:11Z
+externally,English,Simplified-Chinese,2026-05-14T06:12:01Z
+rebase,Spanish,Simplified-Chinese,2026-05-14T06:01:47Z
+typo,English,Simplified-Chinese,2026-05-14T05:51:07Z
+serializable,Spanish,Simplified-Chinese,2026-05-14T05:30:51Z
+"strips headers, replies.",English,Simplified-Chinese,2026-05-14T05:16:30Z
+via,English,Simplified-Chinese,2026-05-14T05:14:41Z
+encapsulate,English,Simplified-Chinese,2026-05-14T05:07:23Z
+Framed,English,Simplified-Chinese,2026-05-14T05:07:00Z
+segment,English,Simplified-Chinese,2026-05-14T04:57:45Z
+Segment,English,Simplified-Chinese,2026-05-14T04:54:33Z
+I completely understand. Sometimes seeing the precise flow is the only way to make it click. This diagram,English,Simplified-Chinese,2026-05-14T04:47:01Z
+diagram,English,Simplified-Chinese,2026-05-14T04:46:56Z
+Checks the physical layer (useful for diagnosing SFP or cable issues).,English,Simplified-Chinese,2026-05-14T04:45:29Z
+Checks the physical layer (useful for diagnosing SFP or cable is,English,Simplified-Chinese,2026-05-14T04:45:19Z
+inventory,English,Simplified-Chinese,2026-05-14T04:44:50Z
+Privileged,English,Simplified-Chinese,2026-05-14T04:40:44Z
+Ethernet,English,Simplified-Chinese,2026-05-14T04:38:15Z
+"wraps the ICMP ""Echo Request"" inside an IP packet, which is then wrapped inside an Ethernet frame.",English,Simplified-Chinese,2026-05-14T04:38:08Z
+Broadcast Domain,English,Simplified-Chinese,2026-05-14T04:36:31Z
+floods,English,Simplified-Chinese,2026-05-14T04:36:20Z
+Protocol Data Unit (PDU): Frame.,English,Simplified-Chinese,2026-05-14T04:35:51Z
+throughput bandwidth,English,Simplified-Chinese,2026-05-14T04:34:20Z
+throttled,English,Simplified-Chinese,2026-05-14T04:34:05Z
+throughput,English,Simplified-Chinese,2026-05-14T04:34:00Z
+Privileged EXEC Mode (,English,Simplified-Chinese,2026-05-14T04:32:26Z
+gotchas,English,Simplified-Chinese,2026-05-14T04:32:07Z
+transitioning,English,Simplified-Chinese,2026-05-14T04:27:44Z
+Inventory,English,Simplified-Chinese,2026-05-14T04:25:59Z
+hierarchical,English,Simplified-Chinese,2026-05-14T04:24:36Z
+EXEC,English,Simplified-Chinese,2026-05-14T04:24:03Z
+"1. Navigating the ModesLike all IOS devices, you move through hierarchical levels of access.• User EXEC Mode (>): Limited view.• Privileged EXEC Mode (#): Full viewing and troubleshooting. Access by typing enable.• Global Configuration Mode ((config)#): Where you change the ""brain"" of the device. Access by typing configure terminal.",English,Simplified-Chinese,2026-05-14T04:21:17Z
+"Operating a Cisco Catalyst 8000 (Cat8k) series device is a bit of a hybrid experience. While it’s technically part of the ""Catalyst"" family, these are primarily Edge Platforms (Routers) rather than traditional layer-2 switches. They run Cisco IOS XE, so if you’ve used an ISR or an ASR, you'll feel right at home.",English,Simplified-Chinese,2026-05-14T04:19:33Z
+hybrid,English,Simplified-Chinese,2026-05-14T04:19:10Z
+"The TunTap project provides kernel extensions for Mac OS X that allow to create virtual network interfaces. From the operating system kernel's point of view, these interfaces behave similar to physical network adapters such as an Ethernet network interface. However, the virtual interface does not send the packets into a wire, but makes them available to programs running in the system.",English,Simplified-Chinese,2026-05-14T02:06:15Z
+relevant,English,Simplified-Chinese,2026-05-14T02:05:46Z
+notarization,English,Simplified-Chinese,2026-05-14T02:05:38Z
+kernel,English,Simplified-Chinese,2026-05-14T02:05:30Z
+macports,English,Simplified-Chinese,2026-05-14T02:04:24Z
+cash,English,Simplified-Chinese,2026-05-14T02:03:30Z
+cache,English,Simplified-Chinese,2026-05-14T02:03:24Z
+functioning,English,Simplified-Chinese,2026-05-14T01:53:55Z
+functioning VPN client and network access.,English,Simplified-Chinese,2026-05-14T01:53:43Z
+establish,English,Simplified-Chinese,2026-05-14T01:51:18Z
+The following links are not Cisco owned or in anyway connected to us reccomend but they seem to cover the material well.,English,Simplified-Chinese,2026-05-14T01:49:42Z
+sandboxing,English,Simplified-Chinese,2026-05-14T01:48:13Z
+reserved,English,Simplified-Chinese,2026-05-14T01:41:13Z
+CPU utilisation from the CAT8kv is streamed to the Grafana instance.,English,Simplified-Chinese,2026-05-14T01:40:52Z
+Credentials,English,Simplified-Chinese,2026-05-14T01:40:37Z
+"Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.",English,Simplified-Chinese,2026-05-14T01:40:11Z
+"While network devices provide several mechanisms such as SNMP, CLI and Syslog to collect data from a network, these mechanisms have limitations that restrict automation and scale. One limitation is the use of the pull model, where the request for data from network elements originates from the client. The pull model necessitates a significant amount of operational complexity with device discovery, security, and statefulness. With this model, the server sends data only when clients request it as this incurs significant overhead.",English,Simplified-Chinese,2026-05-14T01:39:11Z
+mechanisms,English,Simplified-Chinese,2026-05-14T01:38:33Z
+Topology,English,Simplified-Chinese,2026-05-14T01:36:58Z
+collaborative,English,Simplified-Chinese,2026-05-14T01:36:32Z
+personnel,French,Simplified-Chinese,2026-05-14T01:36:09Z
+leveraging,English,Simplified-Chinese,2026-05-14T01:35:25Z
+Model Driven Telemetry enables collection of system operational state data at lower latencies with lower overheads than previously possible with protocols such as SNMP.,English,Simplified-Chinese,2026-05-14T01:34:53Z
+programmability,English,Simplified-Chinese,2026-05-14T01:32:54Z
+Cisco,English,Simplified-Chinese,2026-05-14T01:32:06Z
+validate,English,Simplified-Chinese,2026-05-14T01:31:54Z
+Ubuntu Devbox (running QEMU,English,Simplified-Chinese,2026-05-14T01:31:37Z
+Zero Touch Provisioning (ZTP),English,Simplified-Chinese,2026-05-14T01:31:28Z
+Network Plug and Play,English,Simplified-Chinese,2026-05-14T01:31:21Z
+Provisioning,English,Simplified-Chinese,2026-05-14T01:31:12Z
+Day Zero Provisioning with Network Plug and Play (PnP) and Zero Touch Provisioning (ZTP).,English,Simplified-Chinese,2026-05-14T01:31:06Z
+Model Driven Programmability with YANG Data Models and NETCONF and RESTCONF.,English,Simplified-Chinese,2026-05-14T01:29:43Z
+Catalyst,English,Simplified-Chinese,2026-05-14T01:20:19Z
+Torque,English,Simplified-Chinese,2026-05-14T01:19:39Z
+"Hold on tight,",English,Simplified-Chinese,2026-05-14T01:18:31Z
+tight,English,Simplified-Chinese,2026-05-14T01:18:23Z
+Reservable,English,Simplified-Chinese,2026-05-14T01:17:10Z
+telecoms,English,Simplified-Chinese,2026-05-14T01:09:42Z
+carrier-grade,English,Simplified-Chinese,2026-05-14T01:09:07Z
+IOS XE,English,Simplified-Chinese,2026-05-14T01:08:29Z
+Programmability,English,Simplified-Chinese,2026-05-14T01:06:43Z
+a specific product line,English,Simplified-Chinese,2026-05-14T01:06:05Z
+Versatile,English,Simplified-Chinese,2026-05-14T01:05:05Z
+Versatile Routing,English,Simplified-Chinese,2026-05-14T01:05:03Z
+equivalent,English,Simplified-Chinese,2026-05-14T01:04:51Z
+Reserve,English,Simplified-Chinese,2026-05-14T01:03:40Z
+Launch,English,Simplified-Chinese,2026-05-14T01:03:35Z
+tailor,English,Simplified-Chinese,2026-05-14T00:59:51Z
+hireable,English,Simplified-Chinese,2026-05-14T00:57:52Z
+vendors,English,Simplified-Chinese,2026-05-14T00:57:49Z
+puts you off,English,Simplified-Chinese,2026-05-14T00:57:38Z
+identical,English,Simplified-Chinese,2026-05-14T00:57:22Z
+straightforward with UTM,English,Simplified-Chinese,2026-05-14T00:54:14Z
+Silicon,English,Simplified-Chinese,2026-05-14T00:53:58Z
+simultaneously,English,Simplified-Chinese,2026-05-14T00:52:55Z
+neither,English,Simplified-Chinese,2026-05-14T00:48:32Z
+either,English,Simplified-Chinese,2026-05-14T00:48:15Z
+vendor,English,Simplified-Chinese,2026-05-14T00:47:28Z
+EVE-NG,English,Simplified-Chinese,2026-05-14T00:45:00Z
+emulating,English,Simplified-Chinese,2026-05-14T00:39:35Z
+alternative,English,Simplified-Chinese,2026-05-14T00:39:29Z
+emulator,English,Simplified-Chinese,2026-05-14T00:38:55Z
+模拟,Simplified-Chinese,English,2026-05-14T00:38:48Z
+模仿,Simplified-Chinese,English,2026-05-14T00:38:41Z
+simulates,English,Simplified-Chinese,2026-05-14T00:38:26Z
+已经,Simplified-Chinese,English,2026-05-14T00:27:09Z
+Centralize,English,Simplified-Chinese,2026-05-13T13:20:40Z
+Vitae,English,Simplified-Chinese,2026-05-13T13:15:47Z
+Curriculum,English,Simplified-Chinese,2026-05-13T13:15:33Z
+Curriculum Vitae.,English,Simplified-Chinese,2026-05-13T13:15:10Z
+"Mathematically, the keys are inverse pairs. They are like ""Plus"" and ""Minus"" or ""Multiply"" and ""Divide."" If you do something with one, only the other can undo it.",English,Simplified-Chinese,2026-05-13T13:07:56Z
+inverse,English,Simplified-Chinese,2026-05-13T13:07:48Z
+Trapdoor,Dutch,Simplified-Chinese,2026-05-13T13:06:35Z
+reveal,English,Simplified-Chinese,2026-05-13T12:52:51Z
+Padlock,English,Simplified-Chinese,2026-05-13T12:51:31Z
+jargon,English,Simplified-Chinese,2026-05-13T12:49:08Z
+contradiction,English,Simplified-Chinese,2026-05-13T12:46:40Z
+"Let me create a random secret
+                  and encrypt it with that public key.",English,Simplified-Chinese,2026-05-13T12:38:59Z
+critical,English,Simplified-Chinese,2026-05-13T12:38:28Z
+AUTHENTICATED,English,Simplified-Chinese,2026-05-13T12:35:39Z
+decrypts,English,Simplified-Chinese,2026-05-13T12:35:25Z
+encrypted,English,Simplified-Chinese,2026-05-13T12:35:16Z
+underneath,English,Simplified-Chinese,2026-05-13T12:25:49Z
+"Anything the private key signs, the public key can verify",English,Simplified-Chinese,2026-05-13T12:22:37Z
+"One Sentence SummaryYour Mac proves it owns the private key by solving a challenge that only the private key can solve — without ever revealing the private key itself. GitHub verifies the answer using your public key. No password needed. No secret transmitted. Mathematically unbreakable.This same principle secures your bank, your HTTPS websites, and every SSH connection in every data centre in the world — including the Huawei servers you operated.",English,Simplified-Chinese,2026-05-13T12:16:03Z
+mathematical,English,Simplified-Chinese,2026-05-13T12:15:54Z
+consensus,English,Simplified-Chinese,2026-05-13T12:15:51Z
+This is not an exaggeration. It is the current mathematical consensus.,English,Simplified-Chinese,2026-05-13T12:15:48Z
+The two keys are generated from an extremely large mathematical problem called elliptic curve cryptography (that's what ed25519 means — it's the name of the specific curve used).The numbers involved are so large that:,English,Simplified-Chinese,2026-05-13T12:15:09Z
+"You own a unique padlock (public key)
+You own the only key that opens it (private key)
+
+You give GitHub a copy of your padlock
+GitHub keeps it on your account
+
+When you connect:
+  → GitHub locks a random secret message with YOUR padlock
+  → Sends it to your Mac
+  → Your Mac unlocks it with your private key
+  → Sends the answer back to GitHub
+  → GitHub confirms: ""only the real private key could open that""
+  → You are authenticated",English,Simplified-Chinese,2026-05-13T12:14:33Z
+"The Analogy — Padlock and KeyImagine a special padlock system:You own a unique padlock (public key)
+You own the only key that opens it (private key)
+
+You give GitHub a copy of your padlock
+GitHub keeps it on your account
+
+When you connect:
+  → GitHub locks a random secret message with YOUR padlock
+  → Sends it to your Mac
+  → Your Mac unlocks it with your private key
+  → Sends the answer back to GitHub
+  → GitHub confirms: ""only the real private key could open that""
+  → You are authenticated",English,Simplified-Chinese,2026-05-13T12:14:26Z
+cryptography,English,Simplified-Chinese,2026-05-13T12:11:44Z
+asymmetric,English,Simplified-Chinese,2026-05-13T12:11:42Z
+Mathematically,English,Simplified-Chinese,2026-05-13T12:02:40Z
+elliptic,English,Simplified-Chinese,2026-05-13T04:39:48Z
+Padlock and Key,English,Simplified-Chinese,2026-05-13T04:33:55Z
+"Two keys are generated together using mathematics. What one key encrypts, only the other key can decrypt. And you cannot calculate one key from the other.",English,Simplified-Chinese,2026-05-13T04:32:37Z
+encrypts,English,Simplified-Chinese,2026-05-13T04:32:23Z
+asymmetric cryptography,English,Simplified-Chinese,2026-05-13T04:31:40Z
+underlying principle,English,Simplified-Chinese,2026-05-13T04:31:30Z
+原理,Simplified-Chinese,English,2026-05-13T04:30:27Z
+成功的,Simplified-Chinese,English,2026-05-12T08:24:16Z
+comma,English,Simplified-Chinese,2026-05-12T08:17:49Z
+colon,English,Simplified-Chinese,2026-05-12T07:27:22Z
+brackets,English,Simplified-Chinese,2026-05-12T07:06:08Z
+quotes,English,Simplified-Chinese,2026-05-12T06:40:56Z
+大写,Simplified-Chinese,English,2026-05-12T06:38:54Z
+Index operator,English,Simplified-Chinese,2026-05-12T06:35:16Z
+Placeholder,English,Simplified-Chinese,2026-05-12T06:35:02Z
+Comma,English,Simplified-Chinese,2026-05-12T06:34:38Z
+Colon,English,Simplified-Chinese,2026-05-12T06:34:26Z
+Angle,English,Simplified-Chinese,2026-05-12T06:34:15Z
+Parentheses,English,Simplified-Chinese,2026-05-12T06:33:45Z
+Exponentiation,English,Simplified-Chinese,2026-05-12T06:33:40Z
+Subtraction,English,Simplified-Chinese,2026-05-12T06:33:07Z
+Arithmetic,English,Simplified-Chinese,2026-05-12T06:32:54Z
+:,English,Simplified-Chinese,2026-05-12T06:30:43Z
+analogy,English,Simplified-Chinese,2026-05-11T08:23:45Z
+concrete,English,Simplified-Chinese,2026-05-11T08:23:40Z
+parentheses,English,Simplified-Chinese,2026-05-11T07:37:44Z
+ambient,English,Simplified-Chinese,2026-05-11T06:58:37Z
+ternary,English,Simplified-Chinese,2026-05-11T06:52:57Z
+append,English,Simplified-Chinese,2026-05-11T06:25:14Z
+indent,English,Simplified-Chinese,2026-05-11T06:23:02Z
+you'll hit that limit and lock yourself out.,English,Simplified-Chinese,2026-05-11T05:28:31Z
+concurrent,English,Simplified-Chinese,2026-05-11T05:28:15Z
+convention,English,Simplified-Chinese,2026-05-11T05:10:44Z
+later,English,Simplified-Chinese,2026-05-11T05:05:06Z
+walk me through the script,English,Simplified-Chinese,2026-05-11T05:03:24Z
+封面,Simplified-Chinese,English,2026-05-10T12:35:14Z
+激起了我的好胜心,Simplified-Chinese,English,2026-05-10T12:30:18Z
+assignments,English,Simplified-Chinese,2026-05-10T07:59:13Z
+Thrive,English,Simplified-Chinese,2026-05-10T06:34:58Z
+Employment gap of a few months — needs to be framed correctly,English,Simplified-Chinese,2026-05-10T06:34:05Z
+"Security and compliance require human accountability. No company will let an AI autonomously push configuration changes to production network infrastructure. The legal, financial, and reputational risk is too high. Every automated change needs a human who designed it, tested it, approved it, and takes responsibility if it fails. That human is a Network Automation Engineer.",English,Simplified-Chinese,2026-05-10T06:32:30Z
+compliance,English,Simplified-Chinese,2026-05-10T06:32:06Z
+accountability,English,Simplified-Chinese,2026-05-10T06:32:01Z
+"Heavy on scripting, monitoring, and removing toil from manual operations.",English,Simplified-Chinese,2026-05-10T06:26:20Z
+domain expertise this role requires,English,Simplified-Chinese,2026-05-10T06:25:35Z
+overcomplicated,English,Simplified-Chinese,2026-05-10T06:24:16Z
+gone off track,English,Simplified-Chinese,2026-05-10T06:23:54Z
+Must know cold,English,Simplified-Chinese,2026-05-10T06:03:55Z
+dormant,French,Simplified-Chinese,2026-05-10T05:56:17Z
+simulate,English,Simplified-Chinese,2026-05-10T05:55:55Z
+bullet,English,Simplified-Chinese,2026-05-10T05:41:51Z
+invisible,English,Simplified-Chinese,2026-05-10T05:40:02Z
+who do equal or harder work with a glass ceiling regardless of performance.,English,Simplified-Chinese,2026-05-10T05:38:56Z
+two-tier,English,Simplified-Chinese,2026-05-10T05:38:31Z
+之前是华为的外包员工，学历不是很好，普通本科毕业,Simplified-Chinese,English,2026-05-10T05:37:13Z
+上胸和下胸,Simplified-Chinese,English,2026-05-10T05:36:48Z
+上肢和下肢训练,Simplified-Chinese,English,2026-05-10T05:36:15Z
+requirement,English,Simplified-Chinese,2026-05-10T05:35:02Z
+fluff,English,Simplified-Chinese,2026-05-10T05:23:23Z
+The need to adapt is real — and you're already doing it.,English,Simplified-Chinese,2026-05-10T05:16:57Z
+multiplier,English,Simplified-Chinese,2026-05-10T05:16:31Z
+"The developers who will struggle are not those who get replaced by AI. They're the ones who use AI as a crutch instead of a tool — who never develop the deep understanding to catch when AI is wrong, to debug what AI can't explain, or to make architectural decisions AI isn't qualified to make.",English,Simplified-Chinese,2026-05-10T05:15:15Z
+"your specific infrastructure, or take responsibility when something breaks in production at 3am. That's still a human job",English,Simplified-Chinese,2026-05-10T05:14:36Z
+Manual,English,Simplified-Chinese,2026-05-10T05:12:21Z
+Outsourced code farms that win contracts purely on low price and high volume,English,Simplified-Chinese,2026-05-10T05:12:15Z
+boilerplate,English,Simplified-Chinese,2026-05-10T05:11:48Z
+shrinking,English,Simplified-Chinese,2026-05-10T05:11:26Z
+forecasting,English,Simplified-Chinese,2026-05-10T05:11:02Z
+incentive,English,Simplified-Chinese,2026-05-10T05:10:52Z
+Nuance,English,Simplified-Chinese,2026-05-10T05:10:43Z
+Tech influencers who get paid per view. Fear and certainty generate clicks. Nuance doesn't.,English,Simplified-Chinese,2026-05-10T05:10:37Z
+distinction,English,Simplified-Chinese,2026-05-10T05:10:16Z
+No. Not in six months. Not even close.,English,Simplified-Chinese,2026-05-10T05:09:01Z
+reassurance,English,Simplified-Chinese,2026-05-10T05:08:51Z
+scaffold,English,Simplified-Chinese,2026-05-10T05:06:26Z
+nuanced,English,Simplified-Chinese,2026-05-10T05:06:09Z
+discouragement,English,Simplified-Chinese,2026-05-10T05:04:01Z
+diagrams,English,Simplified-Chinese,2026-05-10T05:03:37Z
+non-trivial.,English,Simplified-Chinese,2026-05-10T05:03:24Z
+"BriefGenius: instant client-ready creative briefs from a voice noteFreelancers and agencies record a rambling 2-min voice note after a client call → tool transcribes + structures it into a formatted creative brief (scope, deliverables, timeline, revision rules, pricing flags). Solves the #1 reason projects go wrong: vague briefs.",English,Simplified-Chinese,2026-05-10T00:59:31Z
+"Here's the full breakdown across all four tabs. A few things worth highlighting:Why BriefGenius (Idea 02)? It wins on three dimensions that matter for a $500 / 30-day constraint: the pain is urgent (a bad brief causes immediate, visible damage to a project), the output is shareable (every PDF the client receives is a free ad), and the willingness-to-pay is high because it directly protects freelancers' income. Repurpose-Bot and RankDraft are good, but they face stronger existing competition from tools like Taplio and Surfer SEO.The key insight on the tech stack: Don't build the app in Bubble first. Build a ""Zapier-tier"" version in Make.com that chains Whisper → Claude → a Google Doc output in a single scenario. Let your 5 beta testers use that janky version. Only invest in a proper Bubble frontend once they're asking for more.On the marketing plan: Week 3's Product Hunt launch only works if Week 2's beta users are genuinely happy — they're your launch-day upvote army. If the beta goes poorly, delay the PH launch by a week rather than burning it with lukewarm reception.The $500 budget allocation:• Domain + Bubble starter: ~$50• Make.com + PDFMonkey: ~$20• API credits buffer (Claude + Whisper for beta): ~$30• Rewardful (referral, free until $200 MRR): $0• Reserve ~$400 for Month 2 costs while you grow to break-evenWant me to go deeper on any tab — for example, write the actual system prompt for the Claude API call, or draft the Product Hunt listing copy?",English,Simplified-Chinese,2026-05-10T00:58:40Z
+"Three high-pain, low-glamour problems in the Content Creation niche — all solvable with an LLM API wrapper.01High pain · Medium competitionRepurpose-Bot: turn one long-form piece into 12 assetsCreators publish a YouTube transcript or blog post → tool auto-generates a tweet thread, LinkedIn carousel outline, 3 email newsletter segments, TikTok hook scripts, and an SEO meta description. All in one click.",English,Simplified-Chinese,2026-05-10T00:56:09Z
+Lean Canvas summary.,English,Simplified-Chinese,2026-05-10T00:55:23Z
+The product must be a 'wrapper' or 'micro-service' that requires minimal maintenance and focuses on recurring monthly revenue,English,Simplified-Chinese,2026-05-10T00:54:29Z
+Lean Startup Expert.,English,Simplified-Chinese,2026-05-10T00:53:41Z
+Distribution,English,Simplified-Chinese,2026-05-10T00:53:22Z
+Curator,English,Simplified-Chinese,2026-05-10T00:52:37Z
+taste,English,Simplified-Chinese,2026-05-10T00:51:53Z
+versatility,English,Simplified-Chinese,2026-05-10T00:51:50Z
+silos,English,Simplified-Chinese,2026-05-10T00:51:42Z
+leverage,English,Simplified-Chinese,2026-05-10T00:47:36Z
+commoditized,English,Simplified-Chinese,2026-05-10T00:47:21Z
+evolving rapidly,English,Simplified-Chinese,2026-05-10T00:47:13Z
+produce,English,Simplified-Chinese,2026-05-10T00:45:40Z
+stakeholders,English,Simplified-Chinese,2026-05-10T00:45:18Z
+supervision,English,Simplified-Chinese,2026-05-10T00:42:51Z
+criteria,English,Simplified-Chinese,2026-05-10T00:42:20Z
+feasible,English,Simplified-Chinese,2026-05-10T00:34:19Z
+Legal practices,English,Simplified-Chinese,2026-05-10T00:32:42Z
+niche,English,Simplified-Chinese,2026-05-10T00:32:27Z
+100 businesses in one niche.,English,Simplified-Chinese,2026-05-10T00:32:22Z
+API integration,English,Simplified-Chinese,2026-05-10T00:31:25Z
+"With Cowork, Claude can tackle several complex tasks at the same time. Organize files while drafting a report while crunching data.
+Check in when you want or just let Claude cook.",English,Simplified-Chinese,2026-05-10T00:25:56Z
+Blank allowed,English,Simplified-Chinese,2026-05-09T14:09:10Z
+Interpretation,English,Simplified-Chinese,2026-05-09T13:50:42Z
+fields,English,Simplified-Chinese,2026-05-09T13:50:21Z
+navigation,English,Simplified-Chinese,2026-05-09T13:49:55Z
+Imagine your spreadsheet is sorted and has a quick lookup structure.,English,Simplified-Chinese,2026-05-09T13:06:40Z
+Row,English,Simplified-Chinese,2026-05-09T13:02:06Z
+Restricted dropdown list for a column,English,Simplified-Chinese,2026-05-09T13:01:47Z
+Enum = Dropdown List of Allowed ValuesAn enum is like Excel Data Validation.prisma,English,Simplified-Chinese,2026-05-09T13:00:52Z
+Enum,English,Simplified-Chinese,2026-05-09T13:00:35Z
+duplicate,English,Simplified-Chinese,2026-05-09T12:49:20Z
+Prevents,English,Simplified-Chinese,2026-05-09T12:49:18Z
+Automatically,English,Simplified-Chinese,2026-05-09T12:49:01Z
+acknowledged,English,Simplified-Chinese,2026-05-09T12:48:37Z
+Optimizes:• Poll history queries• Sorting by time,English,Simplified-Chinese,2026-05-09T12:47:09Z
+Juniper,English,Simplified-Chinese,2026-05-09T12:45:31Z
+Enums restrict fields to predefined values.,English,Simplified-Chinese,2026-05-09T12:42:18Z
+Schema,English,Simplified-Chinese,2026-05-09T12:35:31Z
+enterprise,English,Simplified-Chinese,2026-05-09T12:34:42Z
+"switches, fir",English,Simplified-Chinese,2026-05-09T12:30:26Z
+SNMP polling metrics,English,Simplified-Chinese,2026-05-09T12:28:58Z
+his is a well-structured and production-ready Prisma schema for a network monitoring sys,English,Simplified-Chinese,2026-05-09T12:28:44Z
+"api/
+│   │   │   ├── devices/
+│   │   │   │   ├── route.ts          ← copy content
+│   │   │   │   └── [id]/
+│   │   │   │       └── route.ts      ← copy content
+│   │   │   └── dashboard/
+│   │   │       └── route.ts",English,Simplified-Chinese,2026-05-09T12:05:22Z
+prism,English,Simplified-Chinese,2026-05-09T12:02:18Z
+"opennce/
+├── prisma/
+│   ├── schema.prisma        ← copy content from the file I gave you
+│   └── seed.ts",English,Simplified-Chinese,2026-05-09T12:02:16Z
+phrasing,English,Simplified-Chinese,2026-05-09T12:00:28Z
+"But: ""I understand why layers exist — to isolate change. If the database changes, only the repository layer changes. If the API contract changes, only the controller changes. The business logic in the service layer is untouched. In our Next.js project, lib/ plays the role of the service layer for exactly that reason — if we swap net-snmp for a different SNMP library tomorrow, only lib/snmp/poller.ts changes. Nothing else in the codebase knows or cares.""",English,Simplified-Chinese,2026-05-09T11:56:54Z
+"The business logic in the service layer is untouched. In our Next.js project, lib/ plays the role of the service layer for exactly that reason — if we swap net-snmp for a different SNMP library tomorrow, only lib/snmp/poller.ts changes. Nothing else in the codebase knows or cares.""",English,Simplified-Chinese,2026-05-09T11:56:00Z
+A junior developer who doesn't know why those decisions were made will slowly collapse all those layers into one giant route.ts file. Six months later the codebase is a mess.,English,Simplified-Chinese,2026-05-09T11:55:04Z
+The problem is: how do you stop a codebase from becoming an unmaintainable mess as it grows,English,Simplified-Chinese,2026-05-09T11:53:51Z
+conceptual,English,Simplified-Chinese,2026-05-09T11:50:16Z
+"The one difference is that Spring Boot enforces this separation through its dependency injection system. In Next.js you enforce it yourself through discipline — nothing stops you from putting database calls directly in a React component, but you shouldn't.",English,Simplified-Chinese,2026-05-09T11:47:38Z
+"plays the same role — it holds pure business logic that has no knowledge of HTTP or React. The SNMP poller, alarm engine, and mailer all live here. The reason: if you ever want to call the alarm engine from a background job and from an API route, it's already a plain function you can import anywhere",English,Simplified-Chinese,2026-05-09T11:47:20Z
+"Backgrounds & Visual Details: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.",English,Simplified-Chinese,2026-05-09T11:38:47Z
+on hover.,English,Simplified-Chinese,2026-05-09T11:34:03Z
+They use SWR which auto-refreshes every 30 seconds,English,Simplified-Chinese,2026-05-09T11:33:43Z
+Handlers,English,Simplified-Chinese,2026-05-09T11:33:15Z
+Route Handlers),English,Simplified-Chinese,2026-05-09T11:33:09Z
+Zod,English,Simplified-Chinese,2026-05-09T11:32:55Z
+validates,English,Simplified-Chinese,2026-05-09T11:32:47Z
+you never write SQL manually.,English,Simplified-Chinese,2026-05-09T11:32:06Z
+risma migrate dev,English,Simplified-Chinese,2026-05-09T11:32:00Z
+prisma migrate dev,English,Simplified-Chinese,2026-05-09T11:31:56Z
+px prisma migrate dev --name init,English,Simplified-Chinese,2026-05-09T11:30:33Z
+"# 1. Install all dependencies
+npm install
+
+# 2. Copy the environment file and fill in your database URL
+cp .env.example .env
+
+# 3. Create the database tables from the schema
+npx prisma migrate dev --name init",English,Simplified-Chinese,2026-05-09T11:30:25Z
+"npm install
+
+# 2. Copy the environment file and fill in your database URL
+cp .env.example .env",English,Simplified-Chinese,2026-05-09T11:30:23Z
+implement,English,Simplified-Chinese,2026-05-09T11:28:52Z
+a foreign key,English,Simplified-Chinese,2026-05-09T11:24:46Z
+epstein,English,Simplified-Chinese,2026-05-09T11:22:20Z
+anta doing a,English,Simplified-Chinese,2026-05-09T11:15:02Z
+as Santa doing a test run,English,Simplified-Chinese,2026-05-09T11:11:48Z
+Nuclear alien UFO from North Korea,English,Simplified-Chinese,2026-05-09T11:10:33Z
+extraterrestrial,English,Simplified-Chinese,2026-05-09T11:10:04Z
+"On May 8, at the direction of #SOUTHCOM commander Gen. Francis L. Donovan, Joint Task Force Southern Spear conducted a lethal kinetic strike on a vessel operated by Designated Terrorist Organizations. Intelligence confirmed the vessel was transiting along known narco-trafficking routes in the Eastern Pacific and was engaged in narco-trafficking operations. Two male narco-terrorists were killed during this action, and one survived the strike. Following the engagement, USSOUTHCOM immediately notified the U.S. Coast Guard to activate the Search and Rescue system for the survivor. No U.S. military forces were harmed. @DeptofWar @USCG #OpSouthernSpear",English,Simplified-Chinese,2026-05-09T11:06:54Z
+"Hitler was a socialist, therefore all socialists are Hitler",English,Simplified-Chinese,2026-05-09T11:03:53Z
+Pentagon,English,Simplified-Chinese,2026-05-09T11:03:34Z
+Independent digital media entity for global news & current affairs. Reposting Trump TruthSocial. Not affiliated with President Donald Trump.,English,Simplified-Chinese,2026-05-09T11:02:10Z
+spikes,English,Simplified-Chinese,2026-05-09T08:04:40Z
+credentials,English,Simplified-Chinese,2026-05-09T07:58:26Z
+columns of a spreadsheet,English,Simplified-Chinese,2026-05-09T07:55:06Z
+handles,English,Simplified-Chinese,2026-05-09T07:51:44Z
+assumed,English,Simplified-Chinese,2026-05-09T07:30:31Z
+analogies,English,Simplified-Chinese,2026-05-09T07:30:15Z
+Deliverables,English,Simplified-Chinese,2026-05-09T07:27:23Z
+Delivery,English,Simplified-Chinese,2026-05-09T07:27:20Z
+swappable,English,Simplified-Chinese,2026-05-09T07:24:44Z
+vertical,English,Simplified-Chinese,2026-05-09T07:23:59Z
+scales,English,Simplified-Chinese,2026-05-09T07:23:28Z
+"Now the ERD, then the folder structure.",English,Simplified-Chinese,2026-05-09T07:20:01Z
+PI Layer — Next.js App Router (Route Handlers,English,Simplified-Chinese,2026-05-09T07:19:17Z
+Why This Schema Supports Scalability,English,Simplified-Chinese,2026-05-09T07:18:21Z
+Prisma enforces the Dependency Inversion,English,Simplified-Chinese,2026-05-09T07:17:50Z
+alignment,English,Simplified-Chinese,2026-05-09T07:17:24Z
+cosmetic,English,Simplified-Chinese,2026-05-09T07:17:19Z
+collocated,English,Simplified-Chinese,2026-05-09T07:17:13Z
+"he frontend and backend share one repo, one package.json, and one deployment. The DRY win is structural, not just cosmetic.",English,Simplified-Chinese,2026-05-09T07:16:57Z
+scaffolding,English,Simplified-Chinese,2026-05-09T07:16:21Z
+Stack Decision: Next.js (App Router) + TypeScript,English,Simplified-Chinese,2026-05-09T07:15:55Z
+Stack Decision,English,Simplified-Chinese,2026-05-09T07:15:47Z
+refinement,English,Simplified-Chinese,2026-05-09T07:15:32Z
+precise,English,Simplified-Chinese,2026-05-09T07:15:26Z
+full Phase 1 architecture,English,Simplified-Chinese,2026-05-09T07:15:20Z
+architecture,English,Simplified-Chinese,2026-05-09T07:15:16Z
+Refinement,English,Simplified-Chinese,2026-05-09T07:15:08Z
+vertical slice.,English,Simplified-Chinese,2026-05-09T07:14:56Z
+Zod validation,English,Simplified-Chinese,2026-05-09T07:13:49Z
+Route Handlers,English,Simplified-Chinese,2026-05-09T07:13:35Z
+Node.js runtime · single deployable,English,Simplified-Chinese,2026-05-09T07:10:34Z
+"SnmpPoll and NetconfSession as separate audit tables. Every protocol interaction is persisted. This serves two purposes: the Dashboard can render historical trends (not just current state), and the Alarm Engine can correlate poll failures over time to distinguish a brief blip from a genuine outage.",English,Simplified-Chinese,2026-05-09T07:09:04Z
+"Alarm is decoupled from Device via a foreign key, not embedded JSON. This lets you query alarms independently, paginate them, aggregate by severity, and index by createdAt — all impossible if alarms were a JSONB column on the device row.",English,Simplified-Chinese,2026-05-09T07:08:52Z
+"System Design: Why This Schema Supports ScalabilityBefore the code, understand the three design decisions baked into this schema:1. Polymorphic Device table over separate Switch/Router tables. A deviceType enum column avoids JOIN complexity and lets you add new device classes (Firewall, AP) without migrations that alter existing tables. The tradeoff (slightly looser schema for type-specific fields) is acceptable at MVP scale and solved later with Prisma's @relation discriminated unions.",English,Simplified-Chinese,2026-05-09T07:07:38Z
+tradeoff,English,Simplified-Chinese,2026-05-09T07:07:18Z
+enum column,English,Simplified-Chinese,2026-05-09T07:07:05Z
+Polymorphic,English,Simplified-Chinese,2026-05-09T07:06:54Z
+Dependency Inversion,English,Simplified-Chinese,2026-05-09T07:06:13Z
+"s production-grade but carries significant scaffolding overhead (Maven/Gradle setup, bean wiring, DTO layers, Spring Security config). In a 72-hour window, that scaffolding cost is the enemy. Next.js with the App Router gives you collocated API routes, zero-config TypeScript, and a single deployable unit — the frontend and backend share one repo, one package.json, and one deployment. The DRY win is structural, not just cosmetic.SOLID alignment: Next.js Route Handlers map cleanly to the Single Respo",English,Simplified-Chinese,2026-05-09T06:58:51Z
+JavaMail),English,Simplified-Chinese,2026-05-09T06:58:45Z
+"and one deployment. The DRY win is structural, not just cosmetic.",English,Simplified-Chinese,2026-05-09T06:54:32Z
+Why not Spring Boot? Spring Boot is production-grade but carries significant scaffolding overhead,English,Simplified-Chinese,2026-05-09T06:52:55Z
+Magnitude,English,Simplified-Chinese,2026-05-09T02:39:08Z
+ensuring,English,Simplified-Chinese,2026-05-09T02:35:12Z
+relational integrity,English,Simplified-Chinese,2026-05-09T02:34:59Z
+Tactical,English,Simplified-Chinese,2026-05-09T02:34:28Z
+Does the idea of building ""Software for Networks"" sound more appealing to you than building a generic social media or e-commerce clone?,English,Simplified-Chinese,2026-05-09T02:30:40Z
+Verdict,English,Simplified-Chinese,2026-05-09T02:29:25Z
+hallucinates,English,Simplified-Chinese,2026-05-09T02:27:29Z
+domain expertise,English,Simplified-Chinese,2026-05-09T02:27:03Z
+the description above,English,Simplified-Chinese,2026-05-09T02:26:44Z
+even via outsourcing,English,Simplified-Chinese,2026-05-09T02:26:33Z
+Digital Presence,English,Simplified-Chinese,2026-05-09T02:25:08Z
+recruiters,English,Simplified-Chinese,2026-05-09T02:22:26Z
+integration,English,Simplified-Chinese,2026-05-09T02:19:27Z
+Asynchronously,English,Simplified-Chinese,2026-05-09T02:19:03Z
+high-maintenance,English,Simplified-Chinese,2026-05-09T02:18:54Z
+LinkedIn & Resume ""AI-fication,English,Simplified-Chinese,2026-05-09T02:17:53Z
+communication and autonomy,English,Simplified-Chinese,2026-05-09T02:17:32Z
+The Market Blitz,English,Simplified-Chinese,2026-05-09T02:17:25Z
+Your job is now to audit and debug the output.,English,Simplified-Chinese,2026-05-09T02:16:19Z
+pivot,English,Simplified-Chinese,2026-05-09T02:15:42Z
+Mathematicians,English,Simplified-Chinese,2026-05-09T02:14:10Z
+00% security compliance."",English,Simplified-Chinese,2026-05-09T02:13:26Z
+AI-Augmented Developer,English,Simplified-Chinese,2026-05-09T02:13:12Z
+eliminated,English,Simplified-Chinese,2026-05-09T02:11:22Z
+valid,English,Simplified-Chinese,2026-05-09T02:11:14Z
+"Enterprise Remote roles (banks, health tech) or Agile Startups (AI wrappers, fintech)?",English,Simplified-Chinese,2026-05-09T02:09:33Z
+Concurrency,English,Simplified-Chinese,2026-05-09T02:08:39Z
+Loom,English,Simplified-Chinese,2026-05-09T02:08:25Z
+hallucinations,English,Simplified-Chinese,2026-05-09T02:04:07Z
+Loom videos,English,Simplified-Chinese,2026-05-09T02:03:49Z
+The Cold Outreach. Apply to 10 ""Junior"" or ""Mid"" roles. Send personalized Loom videos or messages showing your project.,English,Simplified-Chinese,2026-05-09T02:03:38Z
+Outreach,English,Simplified-Chinese,2026-05-09T02:03:24Z
+Mock,English,Simplified-Chinese,2026-05-09T02:03:16Z
+AI Literacy & Git.,English,Simplified-Chinese,2026-05-09T02:01:43Z
+AI Partner: Claude 3.5 Sonnet or Gemini 1.5 Pro (for complex logic & architectural advice).,English,Simplified-Chinese,2026-05-09T02:01:12Z
+Backend: Node.js (Hono or Express) + Supabase (for instant Auth/Database).,English,Simplified-Chinese,2026-05-09T02:01:03Z
+"AI orchestration, architectural logic, and debugging",English,Simplified-Chinese,2026-05-09T02:00:29Z
+artifacts,English,Simplified-Chinese,2026-05-09T01:56:44Z
+Park Takeovers,English,Simplified-Chinese,2026-05-08T13:23:34Z
+womb,English,Simplified-Chinese,2026-05-08T12:32:56Z
+I’m 38 and your game reminds me of my era. Keep that grit alive br,English,Simplified-Chinese,2026-05-08T12:27:28Z
+scooper in basketball,English,Simplified-Chinese,2026-05-08T12:16:12Z
+scooper,English,Simplified-Chinese,2026-05-08T12:15:56Z
+grimy,English,Simplified-Chinese,2026-05-08T12:07:39Z
+ayered abstractions,English,Simplified-Chinese,2026-05-08T06:34:27Z
+decomposition,English,Simplified-Chinese,2026-05-08T06:34:21Z
+sequencing,English,Simplified-Chinese,2026-05-08T06:34:16Z
+retrospectively,English,Simplified-Chinese,2026-05-08T06:31:40Z
+contextual,English,Simplified-Chinese,2026-05-08T06:15:15Z
+typing boilerplate code,English,Simplified-Chinese,2026-05-08T06:14:38Z
+UX choices,English,Simplified-Chinese,2026-05-08T06:13:03Z
+tradeoffs,English,Simplified-Chinese,2026-05-08T06:12:53Z
+Copy snippet,English,Simplified-Chinese,2026-05-08T06:03:55Z
+persistence,English,Simplified-Chinese,2026-05-08T05:48:52Z
+retrieval,English,Simplified-Chinese,2026-05-08T05:47:57Z
+Now you need shipping velocity.,English,Simplified-Chinese,2026-05-08T05:35:44Z
+shipping velocity.,English,Simplified-Chinese,2026-05-08T05:35:30Z
+orchestration,English,Simplified-Chinese,2026-05-08T05:25:49Z
+remaining,English,Simplified-Chinese,2026-05-08T05:24:30Z
+backend HTTP endpoint,English,Simplified-Chinese,2026-05-08T05:21:45Z
+request handling,English,Simplified-Chinese,2026-05-08T05:17:28Z
+dedicated,English,Simplified-Chinese,2026-05-08T05:13:36Z
+"Optimize Battery Charging
+
+This feature delays charging the battery past 80% when it predicts that you’ll be plugged in for an extended period of time, and aims to charge the battery before you unplug.",English,Simplified-Chinese,2026-05-08T04:28:25Z
+sneak peek,English,Simplified-Chinese,2026-05-08T04:27:25Z
+dictation,English,Simplified-Chinese,2026-05-08T04:24:42Z
+Keeps credentials secure.,English,Simplified-Chinese,2026-05-07T23:53:00Z
+nullish coalescing operator,English,Simplified-Chinese,2026-05-07T23:50:25Z
+interpret,English,Simplified-Chinese,2026-05-07T23:48:59Z
+tell TypeScript how to interpret this object,English,Simplified-Chinese,2026-05-07T23:48:21Z
+TypeScript type casting.,English,Simplified-Chinese,2026-05-07T23:48:14Z
+hot reloads i,English,Simplified-Chinese,2026-05-07T23:47:50Z
+encountered,English,Simplified-Chinese,2026-05-07T14:10:55Z
+setup,English,Simplified-Chinese,2026-05-07T13:49:03Z
+singleton pattern,English,Simplified-Chinese,2026-05-07T13:43:45Z
+implementation,English,Simplified-Chinese,2026-05-07T13:39:18Z
+abstraction,English,Simplified-Chinese,2026-05-07T13:38:42Z
+concise,English,Simplified-Chinese,2026-05-07T13:29:19Z
+Cascade,English,Simplified-Chinese,2026-05-07T13:27:15Z
+orphan,English,Simplified-Chinese,2026-05-07T13:26:58Z
+better for distributed systems and security,English,Simplified-Chinese,2026-05-07T12:57:12Z
+This uniquely identifies each row.,English,Simplified-Chinese,2026-05-07T12:56:29Z
+id field,English,Simplified-Chinese,2026-05-07T12:55:56Z
+blueprint of a database table,English,Simplified-Chinese,2026-05-07T12:54:44Z
+read database connection string from environment variables,English,Simplified-Chinese,2026-05-07T12:50:47Z
+decode,English,Simplified-Chinese,2026-05-07T12:49:59Z
+Postgre SQL,English,Simplified-Chinese,2026-05-07T12:48:41Z
+This becomes:• repetitive• error-prone• hard to maintain• no type safety,English,Simplified-Chinese,2026-05-07T12:48:05Z
+Object Relational Mapping,English,Simplified-Chinese,2026-05-07T12:46:28Z
+an ORM,English,Simplified-Chinese,2026-05-07T12:46:09Z
+Unique constraint for authentication,English,Simplified-Chinese,2026-05-07T12:38:05Z
+"id: Uses cuid() for unique, non-sequential identifiers",English,Simplified-Chinese,2026-05-07T12:37:32Z
+Use production-style Prisma conventions.,English,Simplified-Chinese,2026-05-07T12:21:11Z
+database schema,English,Simplified-Chinese,2026-05-07T12:20:37Z
+Prisma,Italian,Simplified-Chinese,2026-05-07T12:20:19Z
+delegate to Cursor,English,Simplified-Chinese,2026-05-07T12:18:55Z
+Generate REST API architecture,English,Simplified-Chinese,2026-05-07T12:16:52Z
+Define fields,English,Simplified-Chinese,2026-05-07T12:14:00Z
+What entities exist in my SaaS?,English,Simplified-Chinese,2026-05-07T12:13:01Z
+system intuition,English,Simplified-Chinese,2026-05-07T11:56:10Z
+scalability,English,Simplified-Chinese,2026-05-07T11:55:04Z
+Optimistic updates,English,Simplified-Chinese,2026-05-07T11:53:21Z
+strong portfolio,English,Simplified-Chinese,2026-05-07T11:53:06Z
+INTERMEDIATE,English,Simplified-Chinese,2026-05-07T11:52:52Z
+Full Request Flow (VERY important),English,Simplified-Chinese,2026-05-07T11:44:39Z
+ontroller,Dutch,Simplified-Chinese,2026-05-07T11:41:29Z
+turning point,English,Simplified-Chinese,2026-05-07T11:38:55Z
+API routes,English,Simplified-Chinese,2026-05-07T11:20:32Z
+Prisma schema,English,Simplified-Chinese,2026-05-07T11:20:23Z
+add Prisma,English,Simplified-Chinese,2026-05-07T04:38:02Z
+Database schema (Prisma example),English,Simplified-Chinese,2026-05-07T04:36:54Z
+overengineering),Dutch,Simplified-Chinese,2026-05-07T04:36:07Z
+"Easydict“ wants access to control “System Events“. Allowing control will provide access to documents and data in “System Events“, and to perform actions within that app.",English,Simplified-Chinese,2026-05-07T04:32:17Z
+tooling rabbit hole.,English,Simplified-Chinese,2026-05-07T04:31:15Z
