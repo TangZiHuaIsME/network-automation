@@ -1,0 +1,59 @@
+[
+  {
+    "devicename": "cat8k",
+    "devicehost": "10.10.20.48",
+    "devicecheckat": "2026-05-24 20:12:52.673625",
+    "result": [
+      {
+        "current_interface": "GigabitEthernet1",
+        "input_rate": 11000,
+        "output_rate": 6000,
+        "utilisation": 0.02,
+        "high_usage": false
+      },
+      {
+        "current_interface": "GigabitEthernet2",
+        "input_rate": 0,
+        "output_rate": 0,
+        "utilisation": 0.0,
+        "high_usage": false
+      },
+      {
+        "current_interface": "GigabitEthernet3",
+        "input_rate": 0,
+        "output_rate": 0,
+        "utilisation": 0.0,
+        "high_usage": false
+      },
+      {
+        "current_interface": "Loopback0",
+        "input_rate": 0,
+        "output_rate": 0,
+        "utilisation": 0.0,
+        "high_usage": false
+      },
+      {
+        "current_interface": "Loopback10",
+        "input_rate": 0,
+        "output_rate": 0,
+        "utilisation": 0.0,
+        "high_usage": false
+      },
+      {
+        "current_interface": "Loopback109",
+        "input_rate": 0,
+        "output_rate": 0,
+        "utilisation": 0.0,
+        "high_usage": false
+      },
+      {
+        "current_interface": "Loopback109",
+        "input_rate": 0,
+        "output_rate": 0,
+        "utilisation": 0.0,
+        "high_usage": false
+      }
+    ],
+    "status": "Normal"
+  }
+]

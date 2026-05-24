@@ -1,0 +1,24 @@
+[
+  {
+    "devicename": "cat8kv",
+    "devicehost": "10.10.20.48",
+    "checkat": "2026-05-24 21:21:26.275729",
+    "devicevlan": [
+      "1",
+      "1002",
+      "1003",
+      "1004",
+      "1005"
+    ],
+    "requirevlan": [
+      "1001",
+      "1002",
+      "1003",
+      "1004"
+    ],
+    "lacksvlan": [
+      "1001"
+    ],
+    "status": "vlan check abnormal "
+  }
+]
