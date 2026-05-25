@@ -1,0 +1,9 @@
+[
+  {
+    "devicename": "cat8kv",
+    "devicehost": "10.10.20.48",
+    "checkat": "2026-05-25 15:44:45.801300",
+    "status": "configure successfully",
+    "output": "configure terminal\nEnter configuration commands, one per line.  End with CNTL/Z.\ncat8000v(config)#ntp server 8.8.8.1\ncat8000v(config)#snmp-server community public RO\ncat8000v(config)#end\ncat8000v#"
+  }
+]
