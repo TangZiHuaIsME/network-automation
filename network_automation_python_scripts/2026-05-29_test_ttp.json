@@ -1,0 +1,58 @@
+[
+  {
+    "devicename": "cat8kv",
+    "devicehost": "10.10.20.48",
+    "data": [
+      {
+        "Interface": "Interface",
+        "IP-Address": "IP-Address",
+        "OK?": "OK?",
+        "Method": "Method",
+        "Status": "Status",
+        "Protocol": "Protocol"
+      },
+      {
+        "Interface": "GigabitEthernet1",
+        "IP-Address": "10.10.20.48",
+        "OK?": "YES",
+        "Method": "NVRAM",
+        "Status": "up",
+        "Protocol": "up"
+      },
+      {
+        "Interface": "Loopback0",
+        "IP-Address": "10.0.0.1",
+        "OK?": "YES",
+        "Method": "NVRAM",
+        "Status": "up",
+        "Protocol": "up"
+      },
+      {
+        "Interface": "Loopback10",
+        "IP-Address": "unassigned",
+        "OK?": "YES",
+        "Method": "unset",
+        "Status": "up",
+        "Protocol": "up"
+      },
+      {
+        "Interface": "Loopback109",
+        "IP-Address": "10.255.255.9",
+        "OK?": "YES",
+        "Method": "NVRAM",
+        "Status": "up",
+        "Protocol": "up"
+      },
+      {
+        "Interface": "VirtualPortGroup0",
+        "IP-Address": "192.168.1.1",
+        "OK?": "YES",
+        "Method": "NVRAM",
+        "Status": "up",
+        "Protocol": "up"
+      }
+    ],
+    "checkat": "2026-05-29 15:45:24.211744",
+    "status": "successfully"
+  }
+]
