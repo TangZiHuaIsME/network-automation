@@ -1,0 +1,72 @@
+{
+    "cat8kv-01": {
+        "status": "success",
+        "checkat": "2026-05-30 22:05:23.795282",
+        "interfaces_count": 7,
+        "raw_data": {
+            "GigabitEthernet1": {
+                "is_enabled": true,
+                "is_up": true,
+                "description": "MANAGEMENT INTERFACE - DON'T TOUCH ME",
+                "mac_address": "00:50:56:BF:82:C7",
+                "last_flapped": -1.0,
+                "mtu": 1500,
+                "speed": 1000.0
+            },
+            "GigabitEthernet2": {
+                "is_enabled": false,
+                "is_up": false,
+                "description": "Network Interface",
+                "mac_address": "00:50:56:BF:05:EA",
+                "last_flapped": -1.0,
+                "mtu": 1500,
+                "speed": 1000.0
+            },
+            "GigabitEthernet3": {
+                "is_enabled": false,
+                "is_up": false,
+                "description": "Network Interface",
+                "mac_address": "00:50:56:BF:DE:84",
+                "last_flapped": -1.0,
+                "mtu": 1500,
+                "speed": 1000.0
+            },
+            "Loopback0": {
+                "is_enabled": true,
+                "is_up": true,
+                "description": "",
+                "mac_address": "",
+                "last_flapped": -1.0,
+                "mtu": 1514,
+                "speed": 8000.0
+            },
+            "Loopback10": {
+                "is_enabled": true,
+                "is_up": true,
+                "description": "",
+                "mac_address": "",
+                "last_flapped": -1.0,
+                "mtu": 1514,
+                "speed": 8000.0
+            },
+            "Loopback109": {
+                "is_enabled": true,
+                "is_up": true,
+                "description": "Configured by RESTCONF ga jadi",
+                "mac_address": "",
+                "last_flapped": -1.0,
+                "mtu": 1514,
+                "speed": 8000.0
+            },
+            "VirtualPortGroup0": {
+                "is_enabled": true,
+                "is_up": true,
+                "description": "",
+                "mac_address": "00:1E:E5:87:C7:BD",
+                "last_flapped": -1.0,
+                "mtu": 1500,
+                "speed": 333.0
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+---
+cat8kv-01:
+  hostname: "10.10.20.48"
+  groups:
+    - cisco_ios_group
+  username: "developer"
+  password: "C1sco12345"
