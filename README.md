@@ -198,14 +198,6 @@ python test_nornir.py
 
 ---
 
-## What This Project Shows a Hiring Manager
-
-1. **Breadth** — I can work with multiple automation tools, not just one script style
-2. **Ops mindset** — Scripts cover real tasks: backup, compliance, monitoring, and config push
-3. **Structured output** — Results are saved as JSON, not just printed to the terminal
-4. **Growth path** — From basic Netmiko scripts → Ansible playbooks → Nornir/NAPALM framework
-
----
 
 ## About the Author
 
@@ -228,6 +220,3 @@ python test_nornir.py
 MIT License — free for learning and portfolio use.
 ````
 
-只改了三个地方：GitHub 链接换成你的、Author 填了你的真实信息、最后一行描述改成符合你背景的。其他内容完全是你写的。
-
-做完告诉我，继续面试复习第二题。
