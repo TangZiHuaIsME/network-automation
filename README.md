@@ -31,11 +31,11 @@ Covers configuration backup, health checks, device inventory collection, and log
 
 ## Background
 
-Built and used during 3.5 years of enterprise network operations — originally written to replace manual tasks that took 2–3 hours per shift across environments with 1,000+ network devices.
+Built and used during 3.5 years of enterprise network operations
 
 ---
 
 ## Author
 
 Eddie Tang (唐梓华) — Network Automation Engineer  
-[tangzihua.com](https://www.tangzihua.com) · [LinkedIn](https://linkedin.com/in/eddie-tang-071798418)
+[tangzihua.com](https://www.tangzihua.com) 
